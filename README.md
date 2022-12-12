@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Sadiq Ahmed</h1>
-<h3 align="left">A aspiring full stack developer from sunny San Diego.</h3>
+<h3 align="left">A aspiring full stack developer from San Diego.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqaxxmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqaxxmed" /> </p>
 
 - ✏️ I'm currently studying **@ AppAcademy**
 
-- 🌱 I’m currently learning **Javascript and Node.js**
+- 🌱 I’m currently learning **HTML and CSS**
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
