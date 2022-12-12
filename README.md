@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqaxxmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqaxxmed" /> </p>
 
-- ✏️ I'm currently studying **@ AppAcademy**
+- ✏️ I'm currently studying **@ AppAcademy.**
 
-- 🌱 I’m currently learning **Javascript and Node.js**
+- 🌱 I’m currently learning **Javascript and Node.js.**
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
 - 💬 Ask me about **any good shows, workout splits, fashion, tech, football, & basketball.**
 
-- 📫 How to reach me **send a message on LinkedIn or via Email**
+- 📫 How to reach me **send a message on LinkedIn or via Email.**
 
 - ⚡ Fun fact: **I love pineapples on pizza.**
 
