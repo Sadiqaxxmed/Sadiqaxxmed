@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
-- 💬 Ask me about **any good shows, workout splits, fashion, tech, football, & basketball.**
-
 - 📫 How to reach me **send a message on LinkedIn or via Email.**
 
 - ⚡ Fun fact: **I love pineapples on pizza.**
