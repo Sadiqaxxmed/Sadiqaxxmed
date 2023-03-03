@@ -5,6 +5,8 @@ Aside from my technical skills, I pride myself on my problem-solving abilities, 
 
 I'm truly passionate about technology and dedicated to continuous learning, and I know that I have the potential to make a significant impact in the industry. I'm excited to see where my career as a full stack developer takes me, and I can't wait to continue to grow and develop my skills in this field.</p>
 
+### 🔗 Connect with me
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" />
 
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
