@@ -1,5 +1,5 @@
 <h1 align="left">👾 Sadiq Ahmed</h1>
-<h2 align="left">I'm full stack developer from sunny San Diego currently studying **@AppAcademy.**</h2>
+<p align="left">I'm full stack developer from sunny San Diego currently studying **@AppAcademy.**</p>
 
 - ✏️ I'm currently studying **@AppAcademy.**
 
