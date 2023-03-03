@@ -1,15 +1,5 @@
 <h1 align="left">👾 Sadiq Ahmed</h1>
-<p align="left">I'm full stack developer from sunny San Diego currently studying **@AppAcademy.**</p>
-
-- ✏️ I'm currently studying **@AppAcademy.**
-
-- 🌱 I’m currently learning **React and Redux.**
-
-- 👯 I’m looking to collaborate on **any open source project.**
-
-- 📫 How to reach me **send a message on LinkedIn or via Email.**
-
-- ⚡ Fun fact: **I love pineapples on pizza.**
+<p align="left">I'm a full stack developer from sunny San Diego currently studying @AppAcademy.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
