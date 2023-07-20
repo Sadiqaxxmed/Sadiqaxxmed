@@ -38,8 +38,8 @@
 <br>
 
 ### 📊 Stats
-![sadiqaxxmed github stats](https://github-readme-stats.vercel.app/api?username=sadiqaxxmed&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![sadiqaxxmed github streak](https://github-readme-streak-stats.herokuapp.com/?user=sadiqaxxmed&theme=radical&include_all_commits=true&count_private=true)
+
+![Sadiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiqaxxmed&theme=transparent&show_icons=true)
 
 #
 
