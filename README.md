@@ -6,9 +6,6 @@
 [<img src="https://img.shields.io/badge/angel%20list-%23000000.svg?&style=for-the-badge&logo=angellist&logoColor=white" />](https://wellfound.com/u/sadiq-ahmed-10)
 
 
-
-
-
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -29,7 +26,7 @@
 <img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 <br>
-
+<br>
 
 #
 
