@@ -1,39 +1,38 @@
 <h1 align="left">👾 Sadiq Ahmed</h1>
-<p align="left">Hi there! I'm a full stack developer who recently graduated from AppAcademy, where I gained a solid foundation in programming languages & frameworks such as JavaScript, Python, HTML, CSS, React.js, Redux, Node.js, SQL & more. Aside from my technical skills, I pride myself on my strong communication skills as I know that these soft skills are just as important as my technical abilities. I'm truly passionate about technology and dedicated to continuous learning. I'm excited to see where my career as a full stack developer takes me, and I can't wait to continue to grow and develop my skills in this field.</p>
+<p align="left">Hey there! 👋 I'm a skilled full-stack software engineer proficient in various programming languages and frameworks, including:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23FCA121.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+I'm deeply passionate about technology and committed to perpetual learning. Currently, I'm channeling this enthusiasm into my entrepreneurial journey, spearheading a fashion app startup built with React Native Expo. 🚀💻
+
+Aside from my technical skills, I pride myself on my strong communication skills as I know that these soft skills are just as important as my technical abilities. I understand the importance of clear communication in achieving success, and I enjoy working collaboratively and building strong relationships. 
+
+While it's true that the current market conditions may not be ideal, I remain steadfast in my commitment to pursuing my passion as a full-stack developer. I'm thrilled about my journey as a full-stack developer and eager to see where it leads. I'm excited to keep learning and improving in this field.</p>
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sadiqaxxmed/)
 [<img src="https://img.shields.io/badge/angel%20list-%23000000.svg?&style=for-the-badge&logo=angellist&logoColor=white" />](https://wellfound.com/u/sadiq-ahmed-10)
 
 
-### 🧰 Languages and Tools
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="left" alt="SqlAlchemy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
-<img align="left" alt="Testing" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Deployment" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
-<br>
-<br>
-
-#
+# 
 
 <details>
  <summary><h3>🧑🏾‍💻 My Coding Journey</h3></summary>
   
-   Hey there! I'm Sadiq Ahmed, a passionate full-stack software engineer. It's incredible to think that my journey into this field wasn't what I initially envisioned while growing up. My heart was set on sports or the health industry, but after an internship at the hospital, I realized it wasn't the right fit for me in the long run. So, I decided to explore other possibilities, keeping an eye out for that one thing that would truly inspire me.
+   It's incredible to think that my journey into this field wasn't what I initially envisioned while growing up. My heart was set on sports or the health industry, but after an internship at the hospital, I realized it wasn't the right fit for me in the long run. So, I decided to explore other possibilities, keeping an eye out for that one thing that would truly inspire me.
 
 
 As fate would have it, I enrolled in college and took an introductory Java programming class. At first, everything seemed foreign and challenging, and I didn't perform as well as I hoped. However, that experience ignited a spark within me, and I knew I couldn't let it go. I decided to give it another shot, and with determination and preparation, I aced the class. That's when I knew computer science was the path I wanted to pursue.
