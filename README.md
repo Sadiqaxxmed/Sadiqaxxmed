@@ -18,9 +18,6 @@
 
 I'm deeply passionate about technology and committed to perpetual learning. Currently, I'm channeling this enthusiasm into my entrepreneurial journey, spearheading a fashion app startup built with React Native Expo. 🚀💻
 
-Aside from my technical skills, I pride myself on my strong communication skills as I know that these soft skills are just as important as my technical abilities. I understand the importance of clear communication in achieving success, and I enjoy working collaboratively and building strong relationships. 
-
-While it's true that the current market conditions may not be ideal, I remain steadfast in my commitment to pursuing my passion as a full-stack developer. I'm thrilled about my journey as a full-stack developer and eager to see where it leads. I'm excited to keep learning and improving in this field.</p>
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sadiqaxxmed/)
