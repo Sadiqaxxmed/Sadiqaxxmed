@@ -19,8 +19,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23FCA121.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 [![Convex](https://img.shields.io/badge/Convex-%23FF5656.svg?style=for-the-badge&logoColor=white)](https://convex.so/)
 
-I'm deeply passionate about technology and committed to perpetual learning. Currently, I'm channeling this enthusiasm into my entrepreneurial journey, spearheading a fashion app startup built with React Native Expo. 🚀💻
-
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sadiqaxxmed/)
