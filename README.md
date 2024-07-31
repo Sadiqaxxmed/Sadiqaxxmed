@@ -25,11 +25,3 @@
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sadiqaxxmed/)
 [<img src="https://img.shields.io/badge/angel%20list-%23000000.svg?&style=for-the-badge&logo=angellist&logoColor=white" />](https://wellfound.com/u/sadiq-ahmed-10)
-
-
-# 
-
-<details>
- <summary><h3>🧑🏾‍💻 My Coding Story </h3></summary>
-  
-   Coming Soon!
