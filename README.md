@@ -1,3 +1,3 @@
-- 🏢 SWE (Full Stack), Renton Wa
+- 🏢 SWE (Full Stack), Renton, Wa
 - 🧰 Build with: `JavaScript` `React` `Tailwind` `Python` `Flask` ...
 - ⚡ I enjoy football, games, shows, adventures/traveling, food, reading, and lifting weights :)
